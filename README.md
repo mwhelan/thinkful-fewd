@@ -1,6 +1,6 @@
 # Thinkful Front-End Web Development
 
-In May 2014, I participated in the Front-end Web Development course from Thinkful. In this course you 
+In May 2014, I participated in the Front-end Web Development course from [Thinkful](http://www.thinkful.com). In this course you 
 
 - Build eight sleek and interactive websites with HTML, CSS, JavaScript, jQuery and Git. 
 - Learn web development and apply UX design principles to create user-friendly products.
@@ -18,6 +18,6 @@ The 8 websites were:
 
 In additon the following projects were also created:
 
-- Street Fighter - using jQuery to create animations for the Street Fighte game.
+- Street Fighter - using jQuery to create animations for the Street Fighter game.
 - FizzBuzz - use JavaScript to create the Fizz Buzz game.
 - Stack Overflow Reputation Builder. Focuses on building an app using external JSON APIs, such as the one from Stack Overflow.
