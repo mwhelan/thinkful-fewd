@@ -16,7 +16,7 @@ The 8 websites were:
 7. API Hack - build an app that utilises JSON APIs. I built a Currency Converter that pulled currencies and live exchange rates from https://openexchangerates.org/.
 8. Portfolio - a website to display all of the Thinkful projects.
 
-In additon the following projects were also created:
+In addition the following projects were also created:
 
 - Street Fighter - using jQuery to create animations for the Street Fighter game.
 - FizzBuzz - use JavaScript to create the Fizz Buzz game.

@@ -130,6 +130,10 @@ a:hover {
     padding-left: 30px;
     background: url('../images/bullet.png') no-repeat left center;
 }
+.promo a {
+    color: #fff;
+    text-decoration: underline;
+}
 
 /* ======= Footer ======= */
 .footer {
@@ -188,4 +192,8 @@ a:hover {
 .faq .item .answer {
     color: #777777;
     font-weight: 300;
+}
+.faq img {
+    width: 100%;
+    border: 1px dotted darkslategrey;
 }
