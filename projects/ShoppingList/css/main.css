@@ -1,0 +1,92 @@
+body {
+    background-image: url('../images/shopping-list.jpg');
+    background-size: cover;
+    margin: auto;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    width: 940px;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+}
+
+#content {
+  /*text-align: center;*/
+}
+
+#container {
+    margin: 16em auto;
+    width: 600px;
+    background-color: lightblue;
+    padding-left: 2em;
+    border-radius: 25px;
+    border: 2px; solid; black;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding: 30px 0;
+    margin-top: 70px;
+    margin-left: -2em;
+    border-top: 1px solid #e5e5e5;
+    background-color: #f5f5f5;
+}
+
+#thinkful {
+    margin-top: 25px;
+}
+
+#instructions {
+    margin-bottom: 25px;
+}
+
+#instructions li { 
+    font-style: italic;
+}
+
+#list {
+  margin-top: 30px;
+  width: 400px;
+}
+
+#list a {
+    float: right;
+    text-decoration: none;
+    color: red;
+    font-size: 11px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 3px;
+}
+
+#list input[type="checkbox"] {
+    margin: 0px 10px;
+}
+
+#list li {
+    line-height: 2;
+    border: 1px tan dotted;
+    background-color: lightyellow;
+}
+
+#list li:hover {
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+}   

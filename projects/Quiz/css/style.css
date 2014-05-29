@@ -1,0 +1,100 @@
+body
+{
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    background-image: url('../images/bg02.png');
+    color: #5d5d5d;
+}
+
+strong, b
+{
+    color: #252122;
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    color: #252122;
+    font-weight: 700;
+}
+
+h2 {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+.box h3, .box p, .box a {
+    margin-bottom: 30px;
+}
+
+#quizBoard {
+    display: none;
+    width: 950px;
+    height: 450px;
+    background-color: #293051;
+    color: white;
+    margin: 50px;
+    padding: 40px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.badgeBody {
+    color: #000000;
+    font-size: 35px;
+    background-color: #ffffff !important;
+    border: none !important;
+}
+
+.panel-heading {
+    font-size: 18px;
+}
+
+.question {
+    font-size: 28px;
+}
+
+.answers {
+    margin-top: 50px;
+}
+
+.answerNumber {
+    width: 65px;
+    height: 65px;
+    background-color: black;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 60px;
+    margin-bottom: 30px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.answer {
+    width: 350px;
+    height: 65px;
+    background-color: darkblue;
+    font-size: 20px;
+    line-height: 60px;
+    margin-bottom: 30px;
+    text-align: left;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+}
+
+.answer :hover {
+    cursor: pointer;
+}
+
+.bootstrap-dialog-message {
+    font-weight: bold;
+    font-size: 20px !important;
+}
+

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/main.css">
+	<script src="http://code.jquery.com/jquery-1.8.2.js"></script>  
+	<script src="http://code.jquery.com/ui/1.9.1/jquery-ui.js"></script> 
+	<script src="js/app.js"></script>
+</head>
+<body>
+	<div id="container" class="shadow">
+		<header>
+			<h1>Shopping List</h1>
+		</header>
+
+		<div id="content">
+
+			<ul id="instructions">
+				<li>Add a new item to the list by clicking the 'Add' button or pressing the 'Enter' key.</li>
+				<li>Drag items to sort them.</li>
+				<li>Click the checkbox to mark items as completed/ongoing.</li>
+				<li>Click 'remove' to remove items from the list.</li>
+			</ul>
+
+			<input type="text" name="newItemTextBox" id="newItemTextBox">
+			<input type="submit" value="Add" name="AddButton" id="AddButton">
+
+			<ul id="list"></ul>
+			
+		</div><!-- end of content -->
+
+		<footer>
+			<div id="thinkful">
+				Page created as part of the <a href="http://www.thinkful.com">Thinkful</a> Front-End Web Development course.
+			</div>
+		</footer>
+	</div><!-- end of container -->
+
+</body>
+</html>
